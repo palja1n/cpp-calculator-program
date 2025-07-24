@@ -1,13 +1,13 @@
-C++ Foundational Programs
+# C++ Foundational Programs
 Name: Pal Jain
 PRN: 24070123067
 Division: ENTC-A3
 Title: Introduction to C++ and OOPS, Variables, Data Types, I/O Operations Tools: MS Visual Studio Code
 
-Overview
+# Overview
 This repository contains a collection of basic C++ programs that demonstrate fundamental programming concepts. Each program is designed to build a strong foundation in C++ by exploring key elements like input/output operations, data types, conditionals, and arithmetic operations.
 
-1. Hello, World! Program
+# 1. Hello, World! Program
 This is the classic starting point for learning any programming language. The "Hello, World!" program demonstrates the basic structure of a C++ application, including:
 
 Use of #include <iostream> for input/output operations.
@@ -19,10 +19,10 @@ SampleOutput:
 Hello World!
 Have a good day!
 
-Purpose:
+# Purpose:
 To understand how to print text and get familiar with the syntax and structure of a simple C++ program.
 
-2. Simple Calculator
+# 2. Simple Calculator
 This program acts as a basic command-line calculator that performs the four fundamental arithmetic operations:
 
 Addition
