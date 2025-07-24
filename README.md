@@ -32,11 +32,14 @@ Addition
 Subtraction
 Multiplication
 Division
-Functionality:
+
+
+# Functionality:
 
 Takes two floating-point numbers as input from the user using cin.
 Performs each arithmetic operation and stores the results in variables.
 Displays the output clearly with appropriate labels.
+
 SampleOutput:
 
 Enter the first number:45
@@ -51,5 +54,5 @@ The division of num1 and num2 is: 0.5
 
 The subtraction of num1 and num2 is: -45
 
-Conclusion
+# Conclusion: 
 These programs form the backbone of learning C++. They not only teach the syntax but also the logic-building necessary for more complex programming tasks. As a beginner, mastering these will make it easier to tackle topics like loops, arrays, functions, and object-oriented programming in future modules.
